@@ -23,6 +23,13 @@
 
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <h2 align=center> 💪 Tech Stack 💪 </h2>
 
  <div align=center>
@@ -34,6 +41,12 @@
 
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <h2 align=center> 🛠 Tools 🛠 </h2>
 
  <div align=center>
@@ -41,6 +54,12 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&style=plastic") ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&style=plastic")  ![intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white&style=plastic") ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&style=plastic")  ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white&style=plastic") ![aws](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&style=plastic") ![filezilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white&style=plastic") ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&style=plastic")  ![mac](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white&style=plastic") 
 
 </div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h2 align=center> 💡 Git Stats 💡 </h2>
 
@@ -51,5 +70,14 @@
 
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align=center>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&reversal=true&color=F5F0C5&height=250&text=)
+
+</div>
